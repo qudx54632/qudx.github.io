@@ -55,13 +55,6 @@ interests:
   - Numerical Relativity
 
 education:
-  - area: Postdoctoral Research
-    institution: Perimeter Institute for Theoretical Physics
-    date_start: 2022-08-22
-    date_end: 2025-06-30
-    summary: |
-      Research on covariant loop quantum gravity, black hole models, and quantum spacetime dynamics.
-
   - area: PhD in Physics
     institution: Florida Atlantic University
     date_start: 2017-09-01
@@ -100,6 +93,13 @@ work:
       - Teaching graduate courses in quantum field theory I and II
       - Supervising student research projects in quantum gravity
       - Leading independent research on loop quantum gravity and quantum black holes
+  
+  - position: Postdoctoral Research
+    institution: Perimeter Institute for Theoretical Physics
+    date_start: 2022-08-22
+    date_end: 2025-06-30
+    summary: |
+      Research on Numerical methods in covariant loop quantum gravity, black hole models, and quantum spacetime dynamics.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

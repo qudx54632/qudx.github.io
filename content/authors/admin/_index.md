@@ -85,7 +85,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-08-22
-    date_end: 2025-06-3
+    date_end: 2025-06-03
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit

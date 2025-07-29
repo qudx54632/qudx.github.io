@@ -34,18 +34,21 @@ profiles:
     url: 'mailto:dqu@cdut.edu.cn'
     label: E-mail Me
 
-  - icon: ai-inspire
+  - icon:  custom/inspire
     url: https://inspirehep.net/authors/1949182?ui-citation-summary=true
     label: InspireHEP
 
   - icon: brands/github
     url: https://github.com/qudx54632
+    label: Github
 
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Ll8cUngAAAAJ&hl=en
+    label: Google-Scholar
 
-  - icon: academicons/orcid
+  - icon: acustom/ORCID_iD
     url: https://orcid.org/0000-0002-3900-8961
+    label: Orcid
     
 interests:
   - Quantum Gravity
@@ -93,6 +96,7 @@ work:
       - Teaching graduate courses in quantum field theory I and II
       - Supervising student research projects in quantum gravity
       - Leading independent research on loop quantum gravity and quantum black holes
+      - I'm currently working on quantum gravity, black hole models, and numerical methods for PDEs.
   
   - position: Postdoctoral Research
     institution: Perimeter Institute for Theoretical Physics

@@ -25,7 +25,7 @@ role: Junior Assistant Professor of Physics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Chengdu University of Technology
-    url: https://github.com/qudx54632
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,10 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:dqu@cdut.edu.cn'
     label: E-mail Me
-
-  - icon:  custom/inspire
-    url: https://inspirehep.net/authors/1949182?ui-citation-summary=true
-    label: InspireHEP
 
   - icon: brands/github
     url: https://github.com/qudx54632
@@ -49,6 +45,10 @@ profiles:
   - icon: custom/ORCID_iD
     url: https://orcid.org/0000-0002-3900-8961
     label: Orcid
+
+  - icon:  custom/inspire
+    url: https://inspirehep.net/authors/1949182?ui-citation-summary=true
+    label: InspireHEP
     
 interests:
   - Quantum Gravity

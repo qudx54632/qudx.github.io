@@ -31,21 +31,22 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'dqu@cdut.edu.cn'
+    url: 'mailto:dqu@cdut.edu.cn'
     label: E-mail Me
-  - icon: brands/INSPIRE
+
+  - icon: ai-inspire
     url: https://inspirehep.net/authors/1949182?ui-citation-summary=true
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    label: InspireHEP
+
   - icon: brands/github
     url: https://github.com/qudx54632
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=Ll8cUngAAAAJ&hl=en
+
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3900-8961
-
+    
 interests:
   - Quantum Gravity
   - Loop Quantum Gravity (LQG)

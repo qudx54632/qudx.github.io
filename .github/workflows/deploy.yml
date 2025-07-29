@@ -1,4 +1,4 @@
-name: Deploy Hugo site to GitHub Pages
+name: Deploy static site to GitHub Pages
 
 on:
   push:
@@ -11,39 +11,24 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - run: npm install
-
-      - uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.124.1'
-          extended: true
-
-      - run: hugo --minify
-
-      - name: Upload Pages artifact
+      - name: Upload static site
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./public
+          path: ./docs  # or the folder where your HTML is
 
-  deploy:
-    needs: build
+  deploy-to-gh-pages:
+    needs: deploy
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      pages: write
-      id-token: write
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
+        id: deploy
         uses: actions/deploy-pages@v2

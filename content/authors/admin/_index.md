@@ -110,42 +110,48 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Julia
+        description: Research simulations, numerical PDEs, spinfoam models
+        percent: 85
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Mathematica
+        description: Symbolic computation, analytical work, contour analysis
+        percent: 90
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Python
+        description: Scientific computing, visualization, file processing
+        percent: 70
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
-        percent: 60
+        description: Love to explore nature and relax on the trails
+        percent: 65
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Workout
+        description: Regular strength and cardio training
+        percent: 60
+        icon: dumbbell
+      - name: Fashion Design
+        description: Interested in aesthetics and personal style
+        percent: 75
+        icon: shirt
+      - name: Piano
+        description: Helps me cultivate focus and enter a state of flow
+        percent: 40
+        icon: musical-note
+
 
 languages:
-  - name: English
+  - name: Chines
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: Japnese
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.

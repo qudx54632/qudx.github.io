@@ -46,7 +46,7 @@ profiles:
     url: https://scholar.google.com/citations?user=Ll8cUngAAAAJ&hl=en
     label: Google-Scholar
 
-  - icon: acustom/ORCID_iD
+  - icon: custom/ORCID_iD
     url: https://orcid.org/0000-0002-3900-8961
     label: Orcid
     

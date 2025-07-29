@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:dqu@cdut.edu.cn'
     label: E-mail Me
 
-  - icon:  brands/inspire
+  - icon:  custom/inspire
     url: https://inspirehep.net/authors/1949182?ui-citation-summary=true
     label: InspireHEP
 
@@ -46,7 +46,7 @@ profiles:
     url: https://scholar.google.com/citations?user=Ll8cUngAAAAJ&hl=en
     label: Google-Scholar
 
-  - icon: academicons/ORCID_iD
+  - icon: custom/ORCID_iD
     url: https://orcid.org/0000-0002-3900-8961
     label: Orcid
     

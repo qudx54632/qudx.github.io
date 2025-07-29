@@ -135,8 +135,8 @@ skills:
         description: Regular strength and cardio training
         percent: 60
         icon: dumbbell
-      - name: Fashion Design
-        description: Interested in aesthetics and personal style
+      - name: Fashion Styling
+        description: Enjoy observing and analyzing how people coordinate outfits and express identity through clothing
         percent: 75
         icon: shirt
       - name: Piano

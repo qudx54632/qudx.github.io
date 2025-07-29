@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor of Physics
+role: Junior Assistant Professor of Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -55,43 +55,40 @@ interests:
   - Numerical Relativity
 
 education:
+  - area: Postdoctoral Research
+    institution: Perimeter Institute for Theoretical Physics
+    date_start: 2022-08-22
+    date_end: 2025-06-30
+    summary: |
+      Research on covariant loop quantum gravity, black hole models, and quantum spacetime dynamics.
+
   - area: PhD in Physics
     institution: Florida Atlantic University
     date_start: 2017-09-01
     date_end: 2022-05-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  # - area: Postdoc
-  #   institution: Perimeter Institute for Theoretical Physics
-  #   date_start: 2022-08-22
-  #   date_end: 2025-06-31
-  #   summary: 
-  # - area: BSc Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.4/4.0
+      Dissertation on covariant spinfoam models in quantum gravity. Supervised by Prof. Muxin Han. Published in leading journals including *Phys. Rev. Lett.*, *Phys. Rev. D*, and *npj Quantum Information*.
+  
+  - area: MSc in Quantum Optics
+    institution: Beijing Jiaotong University
+    date_start: 2014-09-01
+    date_end: 2017-06-30
+    summary: |
+      Spent most of the time doing routine lab work. The repetition made me reflect on what really matters to me in physics — pushing boundaries, not just collecting data. This became the motivation to pursue theoretical research.
+
+
+  - area: BSc in Optical Information Science and Technology
+    institution: Beijing Jiaotong University
+    date_start: 2010-09-01
+    date_end: 2014-06-30
+    summary: |
+      Built a solid foundation in classical and modern physics, including optics, electromagnetism, and quantum basics. It was during this time that I realized I wanted to understand not just how things work — but *why*.
       
   #     Courses included:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Postdoc
-    company_name: Perimeter Institute for Theoretical Physics
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-08-22
-    date_end: 2025-06-03
-    # summary: |2-
-    #   Responsibilities include:
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Assistant Professor of Physics
     company_name: Chengdu University of Technology
     company_url: ''
@@ -100,9 +97,9 @@ work:
     date_end: 
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Teaching graduate courses in quantum field theory I and II
+      - Supervising student research projects in quantum gravity
+      - Leading independent research on loop quantum gravity and quantum black holes
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

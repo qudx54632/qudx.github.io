@@ -134,11 +134,11 @@ skills:
       - name: Workout
         description: Regular strength and cardio training
         percent: 60
-        icon: dumbbell
+        icon: custom/dumbbell
       - name: Fashion Styling
         description: Enjoy observing and analyzing how people coordinate outfits and express identity through clothing
         percent: 75
-        icon: shirt
+        icon: custom/shirt
       - name: Piano
         description: Helps me cultivate focus and enter a state of flow
         percent: 40

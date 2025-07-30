@@ -58,7 +58,7 @@ interests:
   - Numerical Relativity
 
 education:
-  - area: PhD in Physics
+  - area: PhD in Theoretical Physics
     institution: Florida Atlantic University
     date_start: 2017-09-01
     date_end: 2022-05-01

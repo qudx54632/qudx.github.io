@@ -164,7 +164,7 @@ awards:
     awarder: Blaumann Foundation
     summary: |
       I was a research fellow funded by the Blaumann Foundation, supporting the work in covariant Loop Quantum Gravity.
-    icon: custom/blaumann
+    icon: custom/inspire
 
   - title: Graduate Fellowship for Academic Excellence
     url: https://www.fau.edu/graduate/resources/fellowships-and-awards/recipients/

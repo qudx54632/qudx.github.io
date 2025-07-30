@@ -86,7 +86,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Assistant Professor of Physics
-    company_name: Chengdu University of Technology
+    company_name: College of Physics, Chengdu University of Technology
     company_url: ''
     company_logo: ''
     date_start: 2025-07-01

@@ -158,33 +158,38 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - title: Blaumann Foundation Research Fellowship
+    url: https://blaumannfoundation.org/wp-content/uploads/2023/09/Winner-Call-3-BlaumannFoundation.pdf
     date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    awarder: Blaumann Foundation
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      I was a research fellow funded by the Blaumann Foundation, supporting the work in covariant Loop Quantum Gravity.
+    icon: academic-cap
+
+  - title: Graduate Fellowship for Academic Excellence
+    url: https://www.fau.edu/graduate/resources/fellowships-and-awards/recipients/
+    date: '2021-09-01'
+    awarder: Florida Atlantic University Graduate College
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded for outstanding academic performance during PhD studies in Physics.
+    icon: academic-cap
+
+  - title: The Nathan W. Dean Award
+    date: '2020-09-01'
+    awarder: Department of Physics, Florida Atlantic University
+    summary: |
+      Recognized for exceptional achievement in graduate-level research in theoretical physics.
+    icon: trophy
+
+  - title: Principal Investigator, Graduate Research Grant
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2015-01-01'
+    awarder: Fundamental Research Funds for Central Universities (China)
+    summary: |
+      Successfully led a funded graduate research project through the grant *2015YJS170* focused on foundational studies in condensed matter systems.
+    icon: lightbulb
 ---
 
 ## About Me
 
-I am a faculty member at Chengdu University of Technology. My research focuses on loop quantum gravity, black hole models, and numerical methods in gravitational physics.
+I am a faculty member in the College of Physics at Chengdu University of Technology. My research focuses on Loop Quantum Gravity, black hole physics, and the development of numerical methods in gravitational theory. I am particularly interested in exploring quantum gravitational effects in cosmology and black hole interiors, using both analytical and computational approaches. 

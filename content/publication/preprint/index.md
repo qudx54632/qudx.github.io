@@ -1,7 +1,9 @@
 ---
 title: "Preprint paper"
-authors: H. Liu, DQ
-- admin
+authors:
+  - H. Liu
+  - DQ
+  # - admin
 date: "2025-04-25T00:00:00Z"
 doi: ""
 

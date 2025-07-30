@@ -172,7 +172,7 @@ awards:
     awarder: Florida Atlantic University Graduate College
     summary: |
       Awarded for outstanding academic performance during PhD studies in Physics.
-    icon: fau
+    icon: blaumann
 
   - title: The Nathan W. Dean Award
     date: '2020-09-01'

@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm curious about what happens to space and time at their limits — inside black holes, or at the very beginning of the universe. My work combines quantum gravity theory with numerical simulation to explore these mysteries.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Beyond equations, I enjoy building tools that help visualize how quantum geometry might change the way we think about spacetime.
+
+        If you're interested in quantum gravity, computational physics, or just like talking about wild ideas in theoretical physics, feel free to connect! 😃
     design:
       columns: '1'
   - block: collection

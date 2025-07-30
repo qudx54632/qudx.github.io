@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Dongxue Qu(曲东雪)"
 
 # Site footer
 footer:
@@ -58,3 +58,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+icon:
+  pack:
+    - fas      # FontAwesome standard set
+    - custom   # enable your own

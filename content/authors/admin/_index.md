@@ -164,7 +164,7 @@ awards:
     awarder: Blaumann Foundation
     summary: |
       I was a research fellow funded by the Blaumann Foundation, supporting the work in covariant Loop Quantum Gravity.
-    icon: custom/inspire
+    icon: blaumann
 
   - title: Graduate Fellowship for Academic Excellence
     url: https://www.fau.edu/graduate/resources/fellowships-and-awards/recipients/
@@ -172,14 +172,14 @@ awards:
     awarder: Florida Atlantic University Graduate College
     summary: |
       Awarded for outstanding academic performance during PhD studies in Physics.
-    icon: custom/fau
+    icon: fau
 
   - title: The Nathan W. Dean Award
     date: '2020-09-01'
     awarder: Department of Physics, Florida Atlantic University
     summary: |
       Recognized for exceptional achievement in graduate-level research in theoretical physics.
-    icon: custom/fau
+    icon: fau
 
   - title: Principal Investigator, Graduate Research Grant
     date: '2015-01-01'

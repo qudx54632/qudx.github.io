@@ -1,5 +1,5 @@
 ---
-title: "Preprint paper"
+title: "Publications"
 authors:
   - H. Liu
   - DQ

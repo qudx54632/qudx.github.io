@@ -179,14 +179,14 @@ awards:
     awarder: Department of Physics, Florida Atlantic University
     summary: |
       Recognized for exceptional achievement in graduate-level research in theoretical physics.
-    icon: fau
+    icon: fau2
 
   - title: Principal Investigator, Graduate Research Grant
     date: '2015-01-01'
     awarder: Fundamental Research Funds for Central Universities (China)
     summary: |
       Successfully led a funded graduate research project through the grant *2015YJS170* focused on foundational studies in condensed matter systems.
-    icon: lightbulb
+    icon: bjtu
 ---
 
 ## About Me

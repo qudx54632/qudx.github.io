@@ -146,7 +146,7 @@ skills:
 
 
 languages:
-  - name: Chines
+  - name: Chinese
     percent: 100
   - name: English
     percent: 90
@@ -160,11 +160,11 @@ languages:
 awards:
   - title: Blaumann Foundation Research Fellowship
     url: https://blaumannfoundation.org/wp-content/uploads/2023/09/Winner-Call-3-BlaumannFoundation.pdf
-    date: '2023-07-01'
+    date: '2023-09-01'
     awarder: Blaumann Foundation
     summary: |
       I was a research fellow funded by the Blaumann Foundation, supporting the work in covariant Loop Quantum Gravity.
-    icon: academic-cap
+    icon: custom/Blaumann
 
   - title: Graduate Fellowship for Academic Excellence
     url: https://www.fau.edu/graduate/resources/fellowships-and-awards/recipients/
@@ -172,17 +172,17 @@ awards:
     awarder: Florida Atlantic University Graduate College
     summary: |
       Awarded for outstanding academic performance during PhD studies in Physics.
-    icon: academic-cap
+    icon: custom/FAU
 
   - title: The Nathan W. Dean Award
     date: '2020-09-01'
     awarder: Department of Physics, Florida Atlantic University
     summary: |
       Recognized for exceptional achievement in graduate-level research in theoretical physics.
-    icon: trophy
+    icon: custom/FAU
 
   - title: Principal Investigator, Graduate Research Grant
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2015-01-01'
     awarder: Fundamental Research Funds for Central Universities (China)
     summary: |

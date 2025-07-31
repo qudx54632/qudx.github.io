@@ -3,25 +3,18 @@ title: "Quantum induced shock dynamics in gravitational collapse: insights from 
 authors:
   - DQ
   - H. Liu
-date: "2025-04-25T00:00:00Z"
-doi: "https://arxiv.org/abs/2504.18462"
+date: "2025-04-25"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-25T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["Preprint"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "In *International Journal of Quantum Gravity*"
+publication_short: "*Int. J. Quantum Grav.*"
 
-abstract: We study shock wave formation in quantum-corrected gravitational collapse using a Loop Quantum Gravity-inspired model. By formulating the dynamics in generalized Painlevé–Gullstrand coordinates, we simulate how quantum effects replace classical singularities with weak discontinuities. Our results reveal novel horizon structures, shock behaviors, and curvature jumps that illuminate black hole formation near the Planck scale.
+# abstract: We study shock wave formation in quantum-corrected gravitational collapse using a Loop Quantum Gravity-inspired model. By formulating the dynamics in generalized Painlevé–Gullstrand coordinates, we simulate how quantum effects replace classical singularities with weak discontinuities. Our results reveal novel horizon structures, shock behaviors, and curvature jumps that illuminate black hole formation near the Planck scale.
 
-# Summary. An optional shortened abstract.
-summary: 
+# # Summary. An optional shortened abstract.
+# summary: 
 
 tags:
 - Gravitational Collapse
@@ -33,6 +26,7 @@ links:
 #   url: http://example.org
 url_pdf: https://arxiv.org/pdf/2504.18462
 url_code: 'https://github.com/qudx54632/Shock-wave-project'
+url_doi: "https://arxiv.org/abs/2504.18462"
 # url_dataset: '#'
 # # url_poster: '#'
 # url_project: ''

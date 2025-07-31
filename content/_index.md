@@ -99,7 +99,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      view: article-grid
+      view: citation
       columns: 1
   - block: collection
     id: talks

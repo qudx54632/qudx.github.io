@@ -4,7 +4,7 @@ authors:
   - DQ
   - H. Liu
 date: "2025-04-25T00:00:00Z"
-doi: ""
+doi: "https://arxiv.org/abs/2504.18462"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-04-25T00:00:00Z"
@@ -26,7 +26,7 @@ summary:
 tags:
 - Gravitational Collapse
 
-featured: true
+featured: false
 
 links:
 # - name: Custom Link

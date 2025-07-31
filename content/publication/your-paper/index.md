@@ -4,8 +4,8 @@ authors:
   - DQ
   - H. Liu
 date: 2025-04-25
-publication_types: ["3"]
-publication: "In *International Journal of Quantum Gravity*"
+publication_types: ["Preprint"]
+publication: "In *arXiv*"
 url: ""
 summary: "We investigate shock wave formation in quantum-corrected black hole models..."
 featured: false

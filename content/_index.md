@@ -90,15 +90,17 @@ sections:
   #     columns: 2
 
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
-      view: citation
+      view: article-grid
+      columns: 1
   - block: collection
     id: talks
     content:

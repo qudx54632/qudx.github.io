@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'An example conference paper'
 
 # Authors
@@ -84,4 +84,19 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
+---
+title: "Quantum induced shock dynamics in gravitational collapse: insights from effective models and numerical frameworks"
+authors:
+  - Dongxue Qu
+  - Hongguang Liu
+date: 2025-04-25
+publication_types: ["3"]  # "3" = Preprint, "2" = Journal Article, "1" = Conference Paper
+publication: "arXiv:2504.18462 [gr-qc]"
+doi: ""
+url_pdf: "https://arxiv.org/pdf/2504.18462"
+url_cite: "cite.bib"
+featured: false
+summary: ""
+---

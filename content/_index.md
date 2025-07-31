@@ -42,17 +42,17 @@ sections:
         If you're interested in quantum gravity, computational physics, or just like talking about wild ideas in theoretical physics, feel free to connect! 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   # - block: markdown
   #   content:
   #   title: Featured Publications

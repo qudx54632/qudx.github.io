@@ -1,40 +1,40 @@
-<!-- ---
-title: 'An example conference paper'
+---
+title: 'Quantum induced shock dynamics in gravitational collapse: insights from effective models and numerical frameworks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - H. Liu
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'First author'
+  - 'Corresponding autor'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-04-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['Preprint']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+# publication: In *Hugo Blox Builder Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We explore the formation and evolution of shock waves in spherically symmetric gravitational collapse within a Loop Quantum Gravity (LQG) inspired effective framework. In this setting, the classical singularities are replaced by quantum-induced shell-crossing singularities, which are resolved through weak solutions such as shock waves. By formulating the dynamics in a generalized Painlev´e–Gullstrand coordinate system, we derive a first-order partial differential equation that governs the propagation of the shock surface, while enforcing metric continuity via thin-shell junction conditions. To handle the non-trivial square-root structures and source terms that arise in theseequations, we develop a novel numerical scheme capable of simulating quantum-corrected spacetime dynamics. Our results show that for small mass black holes near the Planck scale, the shock surface remains timelike and is shielded behind both inner and outer horizons. In the long-time limit, the shock accumulates the entire mass of the collapsing star. In contrast, for larger black hole masses, the shock surface develops spacelike segments, indicating a transition in the effective dynamics driven by quantum effects. The framework also reveals discontinuities in curvature invariants across the shock surface, which can be traced back to stress-energy redistributions caused by quantum effects. Overall, the proposed computational framework provides a general tool for modeling quantum-corrected gravitational collapse and offers new insights into black hole formations, singularity resolution, and the interplay between quantum geometry effects and effective spacetime structures.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Insights from effective models and numerical frameworks in gravitational collapse."
 
-tags:
-  - Large Language Models
+# tags:
+#   - Large Language Models
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,59 +44,59 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: "https://arxiv.org/pdf/2504.18462.pdf"
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+# slides: example
+# ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the _Slides_ button to check out the example.
+# {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
----
-title: "Quantum induced shock dynamics in gravitational collapse: insights from effective models and numerical frameworks"
-authors:
-  - Dongxue Qu
-  - Hongguang Liu
-date: 2025-04-25
-publication_types: ["3"]  # "3" = Preprint, "2" = Journal Article, "1" = Conference Paper
-publication: "arXiv:2504.18462 [gr-qc]"
-doi: ""
-url_pdf: "https://arxiv.org/pdf/2504.18462"
-url_cite: "cite.bib"
-featured: false
-summary: ""
----
+# ---
+# title: "Quantum induced shock dynamics in gravitational collapse: insights from effective models and numerical frameworks"
+# authors:
+#   - Dongxue Qu
+#   - Hongguang Liu
+# date: 2025-04-25
+# publication_types: ["3"]  # "3" = Preprint, "2" = Journal Article, "1" = Conference Paper
+# publication: "arXiv:2504.18462 [gr-qc]"
+# doi: ""
+# url_pdf: "https://arxiv.org/pdf/2504.18462"
+# url_cite: "cite.bib"
+# featured: false
+# summary: ""
+# ---

@@ -1,7 +1,7 @@
 ---
 title: Quantum Field Theory I
 summary: Graduate-level course on Quantum Field Theory (Fall 2025)
-date: 2025-09-01
+date: 2025-07-01
 type: docs
 math: true
 tags:

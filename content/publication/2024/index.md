@@ -1,5 +1,5 @@
 ---
-title: "Quantum induced shock dynamics in gravitational collapse: insights from effective models and numerical frameworks"
+title: "Publications in 2024"
 authors:
   - DQ
   - H. Liu

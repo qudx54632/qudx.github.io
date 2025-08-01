@@ -1,7 +1,7 @@
 ---
 title: 🎉 Organizing Lee's Fest
 summary: I was honored to co-organize a successful workshop celebrating both Lee Smolin's milestone birthday and PI's 25th anniversary.
-date: 2025-07-03
+date: 2025-06-03
 authors:
   - admin
 tags:

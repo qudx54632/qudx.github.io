@@ -2,11 +2,10 @@
 title: 🎓 Joined CDUT as Assistant Professor
 summary: I joined Chengdu University of Technology as an Assistant Professor and look forward to teaching, supervising students, and continuing research in quantum gravity.
 date: 2025-07-01
-type: docs
+type: post
 tags:
   - News
   - Quantum Field Theory
-  - Theoretical Physics
   - CDUT
   - Teaching
   - Research

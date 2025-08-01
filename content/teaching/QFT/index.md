@@ -1,16 +1,79 @@
 ---
-title: Quantum Field Theory I & II
-summary: Graduate course
+title: Quantum Field Theory I
+summary: Graduate-level course on Quantum Field Theory (Fall 2025)
 date: 2025-08-01
 type: docs
-math: false
+math: true
 tags:
+  - Quantum Field Theory
   - Theoretical Physics
+  - Graduate Course
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Lecture notes, syllabus, and resources for QFT I & II'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+This page contains materials for the graduate-level course **Quantum Field Theory I**, taught in the **Fall semester of 2025**.
+
+The course covers both the foundational and advanced aspects of QFT, including:
+
+- Canonical quantization
+- Path integrals
+- Scalar and spinor field theories
+- Gauge fields
+- Renormalization
+- Applications to particle physics and cosmology
+
+---
+
+### 📚 Course Materials
+
+- 📄 [Lecture Notes (PDF)](link-to-your-notes.pdf)
+- 🗂️ [Syllabus](link-to-syllabus.pdf)
+- 📆 Weekly schedule and topics (updated regularly)
+- 💻 Sample code and simulations (where applicable)
+
+---
+
+### 🧮 Topics Covered
+
+- Classical field theory and Lagrangian formalism
+- Quantization of scalar fields
+- Dirac fields and spinor representations
+- Path integral formulation
+- Symmetries and Noether’s theorem
+- Interacting fields and perturbation theory
+- Renormalization techniques
+- Gauge theories and the Standard Model structure
+
+---
+
+### 🧠 Goals
+
+By the end of the course, students will:
+
+- Understand the mathematical structure and physical interpretation of QFT
+- Be able to compute basic scattering amplitudes using Feynman diagrams
+- Grasp the conceptual framework underlying gauge theory and renormalization
+- Build readiness for advanced topics such as QED, QCD, and quantum gravity
+
+---
+
+### 🔗 External Resources
+
+- [Peskin & Schroeder – *An Introduction to Quantum Field Theory*](https://www.amazon.com/Introduction-Quantum-Field-Theory/dp/0201503972)
+- [Schwartz – *Quantum Field Theory and the Standard Model*](https://www.amazon.com/Quantum-Field-Theory-Standard-Model/dp/1107034736)
+- [Perimeter Institute QFT Course Videos](https://www.perimeterinstitute.ca/video-library)
+
+---
+
+Feel free to check this page regularly for updates to lecture notes, assignments, and announcements.
+
+
+
+
+<!-- 
+
+
 
 **Embed videos, podcasts, code, LaTeX math, and even test students!**
 
@@ -137,4 +200,4 @@ renders as
 
 {{< icon name="python" >}} Python
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->

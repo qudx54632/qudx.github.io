@@ -2,7 +2,7 @@
 title: "Publications in Covariant Loop Quantum Gravity (Spinfoams)"
 # authors:
 #   - DQ
-# date: 2025-08-01
+date: 2025-02-01
 ---
 
 ### Selected Publications

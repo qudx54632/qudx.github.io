@@ -7,7 +7,7 @@ authors:
 
 ### Selected Publications
 
-Johanna Borissova*, Bianca Dittrich, <strong>Dongxue Qu*</strong>, Marc Schiffer<br>
+Johanna Borissova*, Bianca Dittrich, <strong>Dongxue Qu</strong>, Marc Schiffer<br>
 <em>Spikes and spines in 4D Lorentzian simplicial quantum gravity</em><br>
 JHEP <strong>10</strong>, 150 (2024) · arXiv:2407.13601 [gr-qc]<br>
 <a href="https://arxiv.org/pdf/2407.13601">PDF</a> · 

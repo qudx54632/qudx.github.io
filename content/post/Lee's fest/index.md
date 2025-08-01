@@ -27,10 +27,6 @@ I was honored to serve as a **co-organizer** of this unforgettable event.
 - Reunions of long-time collaborators and a vibrant community  
 - Part of the broader **PI@25** events marking the institute’s 25th anniversary  
 
-{{% callout note %}}
-This event not only honored a pioneering figure in theoretical physics but also reflected on two decades of progress in foundational research.
-{{% /callout %}}
-
 ---
 
-Thank you to everyone who joined and made the celebration memorable!
+This event not only honored a pioneering figure in theoretical physics but also reflected on two decades of progress in foundational research. Thank you to everyone who joined and made the celebration memorable!

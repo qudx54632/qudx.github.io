@@ -134,3 +134,21 @@ fetch("https://inspirehep.net/api/literature/1805295")
     document.getElementById("citecount7").innerText = count;
   });
 </script>
+
+Haida Li, Muxin Han, Hongguang Liu, Shicong Song, <strong>Dongxue Qu*</strong><br>
+<em>Properties of the 4D spinfoam quantum geometry: Results from next-to-leading order spinfoam large-<i>j</i> asymptotics of the 1-5 Pachner move</em><br>
+Phys. Rev. D <strong>111</strong>, 086017 (2025) · arXiv:2501.16094 [gr-qc]<br>
+<a href="https://arxiv.org/pdf/2501.16094">PDF</a> · 
+<a href="https://arxiv.org/abs/2501.16094">arXiv</a> · 
+<a href="https://doi.org/10.1103/PhysRevD.111.086017">DOI</a> · 
+<a href="https://inspirehep.net/literature/2872604">INSPIRE</a><br>
+<em>Cited by</em>: <span id="citecount-2872604">updating…</span>
+
+<script>
+fetch("https://inspirehep.net/api/literature/2872604")
+  .then(res => res.json())
+  .then(data => {
+    const count = data.metadata?.citation_count ?? "0";
+    document.getElementById("citecount-2872604").innerText = count;
+  });
+</script>

@@ -14,68 +14,68 @@ image:
 
 This page contains materials for the graduate-level course **Quantum Field Theory I**, taught in the **Fall semester of 2025**.
 
-The course covers both the foundational and advanced aspects of QFT, including:
+The course introduces the foundations and essential techniques of quantum field theory, including:
 
-- Canonical quantization
-- Path integrals
-- Scalar and spinor field theories
-- Gauge fields
-- Renormalization
-- Applications to particle physics and cosmology
+- Canonical quantization  
+- Path integral formulation  
+- Scalar and spinor field theories  
+- Gauge fields  
+- Renormalization  
+- Applications in particle physics and cosmology  
 
 ---
 
 ### 📚 Course Materials
 
-- 📄 [Lecture Notes (PDF)](link-to-your-notes.pdf)
-- 🗂️ [Syllabus](link-to-syllabus.pdf)
-- 📆 Weekly schedule and topics (updated regularly)
-- 💻 Sample code and simulations (where applicable)
+- 📄 [Lecture Notes (PDF)](lecture-notes.pdf)  
+- 🗂️ [Syllabus](syllabus.pdf)  
+- 📆 [Weekly schedule and topics] (link-to-schedule.pdf)  
+- 💻 Sample code and simulations (when applicable)  
 
 ---
 
 ### 🧮 Topics Covered
 
-- Classical field theory and Lagrangian formalism
-- Quantization of scalar fields
-- Dirac fields and spinor representations
-- Path integral formulation
-- Symmetries and Noether’s theorem
-- Interacting fields and perturbation theory
-- Renormalization techniques
-- Gauge theories and the Standard Model structure
+- Classical field theory and Lagrangian formalism  
+- Canonical quantization of scalar fields  
+- Dirac fields and spinor representations  
+- Path integrals and generating functionals  
+- Symmetries and Noether’s theorem  
+- Interacting fields and perturbation theory  
+- Renormalization and regularization techniques  
+- Gauge invariance and the structure of the Standard Model  
 
 ---
 
-### 🧠 Goals
+### 🎯 Learning Objectives
 
-By the end of the course, students will:
+By the end of the course, students will be able to:
 
-- Understand the mathematical structure and physical interpretation of QFT
-- Be able to compute basic scattering amplitudes using Feynman diagrams
-- Grasp the conceptual framework underlying gauge theory and renormalization
-- Build readiness for advanced topics such as QED, QCD, and quantum gravity
+- Understand the mathematical framework and physical concepts of QFT  
+- Derive and interpret Feynman rules and scattering amplitudes  
+- Analyze symmetry principles and their consequences in field theory  
+- Apply renormalization methods to compute loop corrections  
+- Prepare for advanced study in QED, QCD, and quantum gravity  
 
 ---
 
 ### 🔗 External Resources
 
 - [Peskin & Schroeder – *An Introduction to Quantum Field Theory*](https://www.amazon.com/Introduction-Quantum-Field-Theory/dp/0201503972)  
-  A standard graduate textbook covering canonical quantization, path integrals, and QED.
+  A standard graduate text covering canonical quantization, path integrals, and QED.
 
 - [Schwartz – *Quantum Field Theory and the Standard Model*](https://www.amazon.com/Quantum-Field-Theory-Standard-Model/dp/1107034736)  
-  A modern and pedagogical introduction, excellent for building intuition and practical skills.
+  A modern, pedagogical introduction—excellent for building intuition and practical skills.
 
 - [Zee – *Quantum Field Theory in a Nutshell*](https://press.princeton.edu/books/hardcover/9780691140346/quantum-field-theory-in-a-nutshell)  
-  A conceptual, witty, and insightful take on QFT, ideal for developing physical understanding.
+  A conceptual and witty take on QFT, emphasizing physical insight over formalism.
 
 - [Weinberg – *The Quantum Theory of Fields, Vol. 1: Foundations*](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521550017)  
-  A rigorous and foundational text by one of the key architects of modern QFT.
+  A mathematically rigorous and foundational treatment by one of QFT’s pioneers.
 
 - [Perimeter Institute QFT Course Videos](https://www.perimeterinstitute.ca/video-library)  
-  Free lectures by leading physicists; a great visual companion to the topics covered.
+  Free lectures by leading physicists; an excellent visual supplement to the course.
 
 ---
 
-Feel free to check this page regularly for updates to lecture notes, assignments, and announcements.
-
+Please check back regularly for updates to lecture notes, assignments, and announcements.

@@ -69,14 +69,14 @@ Muxin Han, Hongguang Liu, and <strong>Dongxue Qu*</strong><br>
 <a href="https://doi.org/10.1103/PhysRevD.108.026010">DOI</a> · 
 <a href="https://inspirehep.net/literature/2621512">INSPIRE</a>  
 <br>
-_Cited by_: <span id="citecount-2621512">updating…</span>
+<em>Cited by</em>: <span id="citecount4">updating…</span>
 
 <script>
 fetch("https://inspirehep.net/api/literature/2621512")
   .then(res => res.json())
   .then(data => {
     const count = data.metadata?.citation_count ?? "0";
-    document.getElementById("citecount-2653655").innerText = count;
+    document.getElementById("citecount4").innerText = count;
   });
 </script>
 
@@ -87,14 +87,14 @@ Phys. Rev. D <strong>106</strong>, 044005 (2022) · arXiv:2110.10670 [gr-qc]<br>
 <a href="https://arxiv.org/abs/2110.10670">arXiv</a> · 
 <a href="https://doi.org/10.1103/PhysRevD.106.044005">DOI</a> · 
 <a href="https://inspirehep.net/literature/1949174">INSPIRE</a><br>
-<em>Cited by</em>: <span id="citecount4">updating…</span>
+<em>Cited by</em>: <span id="citecount5">updating…</span>
 
 <script>
 fetch("https://inspirehep.net/api/literature/1949174")
   .then(res => res.json())
   .then(data => {
     const count = data.metadata?.citation_count ?? "0";
-    document.getElementById("citecount4").innerText = count;
+    document.getElementById("citecount5").innerText = count;
   });
 </script>
 
@@ -105,14 +105,14 @@ Phys. Rev. D <strong>103</strong>, 084026 (2021) · arXiv:2012.11515 [gr-qc]<br>
 <a href="https://arxiv.org/abs/2012.11515">arXiv</a> · 
 <a href="https://doi.org/10.1103/PhysRevD.103.084026">DOI</a> · 
 <a href="https://inspirehep.net/literature/1837981">INSPIRE</a><br>
-<em>Cited by</em>: <span id="citecount5">updating…</span>
+<em>Cited by</em>: <span id="citecount6">updating…</span>
 
 <script>
 fetch("https://inspirehep.net/api/literature/1837981")
   .then(res => res.json())
   .then(data => {
     const count = data.metadata?.citation_count ?? "0";
-    document.getElementById("citecount5").innerText = count;
+    document.getElementById("citecount6").innerText = count;
   });
 </script>
 
@@ -124,13 +124,13 @@ Phys. Rev. D <strong>102</strong>, 124010 (2020) · arXiv:2007.01998 [gr-qc]<br>
 <a href="https://arxiv.org/abs/2007.01998">arXiv</a> · 
 <a href="https://doi.org/10.1103/PhysRevD.102.124010">DOI</a> · 
 <a href="https://inspirehep.net/literature/1805295">INSPIRE</a><br>
-<em>Cited by</em>: <span id="citecount6">updating…</span>
+<em>Cited by</em>: <span id="citecount7">updating…</span>
 
 <script>
 fetch("https://inspirehep.net/api/literature/1805295")
   .then(res => res.json())
   .then(data => {
     const count = data.metadata?.citation_count ?? "0";
-    document.getElementById("citecount6").innerText = count;
+    document.getElementById("citecount7").innerText = count;
   });
 </script>

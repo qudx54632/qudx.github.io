@@ -2,7 +2,7 @@
 title: "Publications in Star Collapse and Black Holes"
 authors:
   - DQ
-date: 2025-04-25
+# date: 2025-04-25
 # publication_types: ["Preprint"]
 # publication: "In *arXiv*"
 # summary: "We investigate shock wave formation in quantum-corrected black hole models..."

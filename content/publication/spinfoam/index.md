@@ -2,22 +2,25 @@
 title: "Publications in Covariant LQG(Spinfoams)"
 authors:
   - DQ
-date: 2025-08-01
+# date: 2025-08-01
 ---
 
 ### Selected Publications
-<!-- 
-1. **Dongxue Qu**, Hongguang Liu.  
-   *Quantum induced shock dynamics in gravitational collapse: insights from effective models and numerical frameworks*.  
-   arXiv:2504.18462 [gr-qc], 2025.  
-   [PDF](https://arxiv.org/pdf/2504.18462) · [arXiv](https://arxiv.org/abs/2504.18462) · [Code](https://github.com/qudx54632/Shock-wave-project) · [INSPIRE](https://inspirehep.net/literature/2915637)  
-   _Cited by_: <span id="cite-2504.18462">updating…</span>
+
+1. <strong>Dongxue Qu</strong>, Hongguang Liu, Muxin Han.<br>
+<em>Mathematica program for numerically computing real and complex critical points in four-dimensional Lorentzian spinfoam amplitudes</em><br>
+Phys. Rev. D <strong>111</strong>, 024021 (2025) · arXiv:2404.10563 [gr-qc]<br>
+<a href="https://arxiv.org/pdf/2404.10563">PDF</a> · 
+<a href="https://arxiv.org/abs/2404.10563">arXiv</a> · 
+<a href="https://doi.org/10.1103/PhysRevD.111.024021">DOI</a> · 
+<a href="https://inspirehep.net/literature/2777905">INSPIRE</a><br>
+<em>Cited by</em>: <span id="citecount1">updating…</span>
 
 <script>
-  fetch("https://inspirehep.net/api/literature?sort=mostrecent&size=1&q=2504.18462")
-    .then(response => response.json())
-    .then(data => {
-      const count = data.hits?.hits?.[0]?.metadata?.citation_count ?? "0";
-      document.getElementById("cite-2504.18462").innerText = `${count}`;
-    });
-</script> -->
+fetch("https://inspirehep.net/api/literature/2777905")
+  .then(res => res.json())
+  .then(data => {
+    const count = data.metadata?.citation_count ?? "0";
+    document.getElementById("citecount1").innerText = count;
+  });
+</script>

@@ -1,7 +1,7 @@
 ---
 title: "Publications in Quantum Information and Quantum Gravity"
-authors:
-  - DQ
+# authors:
+#   - DQ
 # date: 2025-08-01
 ---
 

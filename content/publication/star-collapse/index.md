@@ -1,8 +1,8 @@
 ---
 title: "Publications in Star Collapse and Black Holes"
-authors:
-  - DQ
-date: 2025-08-01
+# authors:
+#   - DQ
+# date: 2025-08-01
 ---
 
 ### Selected Publications

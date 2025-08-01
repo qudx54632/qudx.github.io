@@ -1,7 +1,7 @@
 ---
 title: "Publications in Regge Calculus"
-authors:
-  - DQ
+# authors:
+#   - DQ
 # date: 2025-08-01
 ---
 

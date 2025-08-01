@@ -1,11 +1,11 @@
 ---
 title: Quantum Field Theory I & II
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+summary: Graduate course
+date: 2025-08-01
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Theoretical Physics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

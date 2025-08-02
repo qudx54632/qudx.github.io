@@ -1,8 +1,8 @@
----
+<!-- ---
 title: 💍 Married My Partner After 11 Years Together
 summary: Celebrating a new chapter with Mr. Wang after over a decade of love across distances and continents.
 date: 2022-06-01
-type: docs
+type: post
 tags:
   - Personal
   - Life Events
@@ -27,4 +27,4 @@ Thank you to our family, friends, and mentors who’ve been part of our story.
 
 ---
 
-*“To love and be loved is to feel the sun from both sides.”*
+*“To love and be loved is to feel the sun from both sides.”* -->

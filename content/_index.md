@@ -42,53 +42,6 @@ sections:
         If you're interested in quantum gravity, computational physics, or just like talking about wild ideas in theoretical physics, feel free to connect! 😃
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
-  # - block: markdown
-  #   content:
-  #   title: Featured Publications
-  #   text: >
-  #     Highlighted papers from two areas of my research.
-  # - block: collection
-  #   content:
-  #     title: Gravitational Collapse
-  #     text: >
-  #       Selected work on quantum gravitational collapse, shock waves, and horizon formation.
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #       tag_filter:
-  #         - Gravitational Collapse
-  #   design:
-  #     view: article-grid
-  #     columns: 2
-
-  # - block: collection
-  #   content:
-  #     title: Spinfoam & Covariant LQG
-  #     text: >
-  #       Numerical investigations of spinfoam amplitudes, quantum black holes, and semiclassical limits in covariant LQG.
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #       tag_filter:
-  #         - Spinfoam Models
-  #         - Loop Quantum Gravity (LQG)
-  #   design:
-  #     view: article-grid
-  #     columns: 2
-
   - block: collection
     id: papers
     content:

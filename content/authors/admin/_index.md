@@ -51,8 +51,8 @@ profiles:
     label: InspireHEP
     
 interests:
-  - Quantum Gravity
   - Loop Quantum Gravity (LQG)
+  - Quantum Gravity
   - Spinfoam Models
   - Quantum Black Holes
   - Numerical Relativity

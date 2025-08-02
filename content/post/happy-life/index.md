@@ -2,7 +2,7 @@
 title: 💍 Married My Partner After 11 Years Together
 summary: Celebrating a new chapter with Mr. Wang after over a decade of love across distances and continents.
 date: 2022-06-01
-type: post
+type: docs
 tags:
   - Personal
   - Life Events

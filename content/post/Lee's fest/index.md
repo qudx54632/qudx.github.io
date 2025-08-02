@@ -1,20 +1,20 @@
 ---
-title: 🎉 Organizing Lee's Fest
-summary: I was honored to co-organize a successful workshop celebrating both Lee Smolin's milestone birthday and PI's 25th anniversary.
-date: 2025-06-03
+title: 🎉 Organizing Lee's Fest and Leaving PI  
+summary: I was honored to co-organize a successful workshop celebrating both Lee Smolin's milestone birthday and PI's 25th anniversary.  
+date: 2025-06-03  
 authors:
-  - admin
-tags:
-  - Workshop
-  - Quantum Gravity
-  - PI25
-  - Lee Smolin
-image:
-  caption: 'Image credit: [**Perimeter Institute**](https://events.perimeterinstitute.ca/event/937/overview)'
-  focal_point: Center
+  - admin  
+tags:  
+  - Workshop  
+  - Quantum Gravity  
+  - PI25  
+  - Lee Smolin  
+image:  
+  caption: 'Image credit: [**Perimeter Institute**](https://events.perimeterinstitute.ca/event/937/overview)'  
+  focal_point: Center  
 ---
 
-Lee's Fest was a special scientific celebration in honor of Lee Smolin’s milestone birthday and the 25th anniversary of the Perimeter Institute. It brought together many leading voices in quantum gravity, theoretical physics, and cosmology.
+**Lee's Fest** was a special scientific celebration in honor of Lee Smolin’s milestone birthday and the 25th anniversary of the Perimeter Institute. It brought together many leading voices in quantum gravity, theoretical physics, and cosmology.
 
 I was honored to serve as a **co-organizer** of this unforgettable event.
 
@@ -29,4 +29,10 @@ I was honored to serve as a **co-organizer** of this unforgettable event.
 
 ---
 
-This event not only honored a pioneering figure in theoretical physics but also reflected on two decades of progress in foundational research. Thank you to everyone who joined and made the celebration memorable!
+This event not only honored a pioneering figure in theoretical physics but also reflected on two decades of progress in foundational research.
+
+It also marked a personal transition: I officially concluded my time at the **Perimeter Institute**. My years at PI have been formative, both professionally and personally. It was here that I learned to recognize what truly matters — in science and beyond. The environment at PI helped shape my character and sharpen my sense of direction.
+
+I’m especially thankful to **Bianca Dittrich**, my mentor during this period, for helping me understand the importance of setting boundaries and maintaining clarity in professional interactions. Her strong work ethic and principled approach to research have had a lasting influence on how I engage with collaboration, make decisions, and grow as an academic.
+
+Thank you to everyone at PI who supported me along the way — for the conversations, the challenges, and the shared pursuit of ideas that matter.

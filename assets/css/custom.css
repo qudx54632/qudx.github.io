@@ -1,5 +1,6 @@
 .hero,
 .hero-overlay {
   background: transparent !important;
+  background-image: none !important;
   z-index: 0 !important;
 }

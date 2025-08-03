@@ -63,3 +63,6 @@ icon:
   pack:
     - fas      # FontAwesome standard set
     - custom   # enable your own
+
+customCSS:
+  - css/custom.css

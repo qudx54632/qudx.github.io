@@ -1,0 +1,5 @@
+.hero,
+.hero-overlay {
+  background: transparent !important;
+  z-index: 0 !important;
+}

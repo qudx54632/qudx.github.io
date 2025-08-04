@@ -1,22 +1,22 @@
-.hero,
-.hero-overlay {
+/* 强制覆盖主题默认背景 */
+body {
   background: transparent !important;
-  background-image: none !important;
-  z-index: 0 !important;
 }
 
-/* 确保particles容器在最底层 */
+/* 确保粒子容器在最底层且全屏 */
 #particles-js {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  top: 0;
-  left: 0;
+  position: fixed !important;
+  width: 100% !important;
+  height: 100% !important;
+  top: 0 !important;
+  left: 0 !important;
+  z-index: -1 !important;
+  background: #001f3f; /* 深色背景，粒子会更明显 */
 }
 
-/* 确保内容在particles之上 */
-.container, .row {
+/* 确保内容在粒子层之上 */
+.container, .section {
   position: relative;
   z-index: 1;
+  background: transparent;
 }

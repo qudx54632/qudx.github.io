@@ -4,3 +4,19 @@
   background-image: none !important;
   z-index: 0 !important;
 }
+
+/* 确保particles容器在最底层 */
+#particles-js {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  top: 0;
+  left: 0;
+}
+
+/* 确保内容在particles之上 */
+.container, .row {
+  position: relative;
+  z-index: 1;
+}

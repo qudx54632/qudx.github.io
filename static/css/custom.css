@@ -1,5 +1,5 @@
 #page-bg {
-  z-index: -1 !important; /* background at the very back */
+  z-index: 0 !important; /* background at the very back */
 }
 
 #particles-js,

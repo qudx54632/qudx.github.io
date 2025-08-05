@@ -1,11 +1,3 @@
-#page-bg {
-  background-image: url("/img/bio-bg.png") !important;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  z-index: -2 !important;
-}
-
 #particles-js {
   position: fixed;
   top: 0;

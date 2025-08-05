@@ -1,10 +1,10 @@
+#page-bg {
+  z-index: -1 !important; /* push HugoBlox background behind particles */
+}
+
 #particles-js,
 #particles-js canvas {
   pointer-events: auto !important; /* allow clicks to register */
-}
-
-#page-bg {
-  z-index: -1 !important; /* push HugoBlox background behind particles */
 }
 
 #particles-js {

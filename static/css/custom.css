@@ -4,7 +4,7 @@
 }
 
 #page-bg {
-  z-index: -2 !important; /* push HugoBlox background behind particles */
+  z-index: -1 !important; /* push HugoBlox background behind particles */
 }
 
 #particles-js {

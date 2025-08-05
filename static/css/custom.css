@@ -1,12 +1,3 @@
-#particles-js,
-#particles-js canvas {
-  pointer-events: auto !important; /* let particles receive clicks */
-}
-
-#page-bg {
-  z-index: -2 !important; /* background at the very back */
-}
-
 #particles-js {
   position: fixed;
   top: 0;
@@ -14,5 +5,14 @@
   width: 100%;
   height: 100%;
   z-index: -1; /* behind text & links, above background */
+}
+
+#particles-js,
+#particles-js canvas {
+  pointer-events: auto !important; /* let particles receive clicks */
+}
+
+#page-bg {
+  z-index: -2 !important; /* background at the very back */
 }
 

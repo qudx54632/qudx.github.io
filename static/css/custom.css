@@ -1,6 +1,10 @@
+#particles-js,
+#particles-js canvas {
+  pointer-events: auto !important; /* allow clicks to register */
+}
 
 #page-bg {
-  z-index: -2 !important;
+  z-index: -2 !important; /* push HugoBlox background behind particles */
 }
 
 #particles-js {
@@ -9,6 +13,10 @@
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 0;
-  pointer-events: auto;
+  z-index: 1; /* make sure it's above page-bg and overlays */
+}
+
+.page-header,
+.overlay {
+  pointer-events: none !important;
 }

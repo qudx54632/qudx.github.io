@@ -1,10 +1,10 @@
 #page-bg {
-  z-index: -1 !important; /* push HugoBlox background behind particles */
+  z-index: -2 !important; /* background at the very back */
 }
 
 #particles-js,
 #particles-js canvas {
-  pointer-events: auto !important; /* allow clicks to register */
+  pointer-events: auto !important; /* let particles receive clicks */
 }
 
 #particles-js {
@@ -13,7 +13,5 @@
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 0; /* make sure it's above page-bg and overlays */
+  z-index: 0; /* behind text & links, above background */
 }
-
-

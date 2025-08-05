@@ -1,24 +1,17 @@
-/* Push the default HugoBlox background further back */
 #page-bg {
+  background-image: url("/img/bio-bg.png") !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   z-index: -2 !important;
 }
 
-/* Particles canvas — behind content, above #page-bg */
 #particles-js {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: -1;           /* Above page-bg but below content */
-  pointer-events: auto;  /* Allow mouse clicks & hovers */
-}
-
-/* Remove the default SVG background */
-#page-bg {
-  background-image: url("{{ "img/bio-bg.png" | relURL }}") !important;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  z-index: -2 !important; /* Keep it behind particles/text */
+  z-index: -1;
+  pointer-events: auto;
 }

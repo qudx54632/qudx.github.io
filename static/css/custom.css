@@ -4,7 +4,7 @@
 }
 
 #page-bg {
-  z-index: -2 !important; /* push HugoBlox background behind particles */
+  z-index: -999 !important; /* push HugoBlox background behind particles */
 }
 
 #particles-js {
@@ -16,7 +16,7 @@
   z-index: 0; /* make sure it's above page-bg and overlays */
 }
 
-.page-header,
+/* .page-header,
 .overlay {
   pointer-events: none !important;
-}
+} */

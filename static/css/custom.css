@@ -7,12 +7,14 @@
   z-index: -1; /* behind text & links, above background */
 }
 
+#page-bg {
+  z-index: -2 !important; /* background at the very back */
+}
+
 #particles-js,
 #particles-js canvas {
   pointer-events: auto !important; /* let particles receive clicks */
 }
 
-#page-bg {
-  z-index: -2 !important; /* background at the very back */
-}
+
 

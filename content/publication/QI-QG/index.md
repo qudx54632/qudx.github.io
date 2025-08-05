@@ -3,6 +3,7 @@ title: "Publications in Quantum Information and Quantum Gravity"
 # authors:
 #   - DQ
 date: 2022-07-01
+type: post
 ---
 
 ### Selected Publications

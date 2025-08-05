@@ -28,6 +28,7 @@
     </div>
 
     {{/* EXTENSIBILITY HOOK: BODY-END */}}
-    {{ partial "functions/get_hook" (dict "hook" "body-end" "context" .) }}
+    <!-- {{ partial "functions/get_hook" (dict "hook" "body-end" "context" .) }} -->
+    {{ partial "hooks/body-end/particles.html" . }}
   </body>
 </html>

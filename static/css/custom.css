@@ -13,3 +13,12 @@
   z-index: -1;           /* Above page-bg but below content */
   pointer-events: auto;  /* Allow mouse clicks & hovers */
 }
+
+/* Remove the default SVG background */
+#page-bg {
+  background-image: url("{{ "img/bio-bg.png" | relURL }}") !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: -2 !important; /* Keep it behind particles/text */
+}

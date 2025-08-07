@@ -80,7 +80,7 @@ fetch("https://inspirehep.net/api/literature/2621512")
   });
 </script>
 
-Muxin Han, Zichang Huang, Hongguang Liu, <strong>Qu, Dongxue*</strong><br>
+Muxin Han, Zichang Huang, Hongguang Liu, <strong>Dongxue Qu*</strong><br>
 <em>Complex critical points and curved geometries in four-dimensional Lorentzian spinfoam quantum gravity</em><br>
 Phys. Rev. D <strong>106</strong>, 044005 (2022) · arXiv:2110.10670 [gr-qc]<br>
 <a href="https://arxiv.org/pdf/2110.10670">PDF</a> · 
@@ -98,7 +98,7 @@ fetch("https://inspirehep.net/api/literature/1949174")
   });
 </script>
 
-Muxin Han, Zichang Huang*, Hongguang Liu, <strong>Qu, Dongxue</strong>, Yidun Wan<br>
+Muxin Han, Zichang Huang*, Hongguang Liu, <strong>Dongxue Qu</strong>, Yidun Wan<br>
 <em>Spinfoam on a Lefschetz thimble: Markov chain Monte Carlo computation of a Lorentzian spinfoam propagator</em><br>
 Phys. Rev. D <strong>103</strong>, 084026 (2021) · arXiv:2012.11515 [gr-qc]<br>
 <a href="https://arxiv.org/pdf/2012.11515">PDF</a> · 
@@ -117,7 +117,7 @@ fetch("https://inspirehep.net/api/literature/1837981")
 </script>
 
 
-Muxin Han, Zichang Huang, Hongguang Liu, <strong>Qu, Dongxue*</strong><br>
+Muxin Han, Zichang Huang, Hongguang Liu, <strong>Dongxue Qu*</strong><br>
 <em>Numerical computations of next-to-leading order corrections in spinfoam large-<i>j</i> asymptotics</em><br>
 Phys. Rev. D <strong>102</strong>, 124010 (2020) · arXiv:2007.01998 [gr-qc]<br>
 <a href="https://arxiv.org/pdf/2007.01998">PDF</a> · 

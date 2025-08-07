@@ -1,13 +1,9 @@
-#page-bg {
-  z-index: -2 !important;
-}
-
 #particles-js {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 0 !important;  /* right below content, above page-bg */
+  /* z-index: 0 !important;  right below content, above page-bg */
   pointer-events: auto !important;  /* allow particles to receive interaction */
 }

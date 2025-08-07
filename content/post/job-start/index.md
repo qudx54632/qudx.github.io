@@ -10,8 +10,8 @@ tags:
   - Teaching
   - Research
 image:
-  caption: 'Image credit: [**Dongxue Qu**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.086012)'
-  focal_point: Center 
+  caption: 'Excited to start my new academic chapter at CDUT.'
+  focal_point: Center
 ---
 
 I’m delighted to share that I have officially joined **Chengdu University of Technology (CDUT)** as an **Assistant Professor of Physics**.

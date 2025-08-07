@@ -3,6 +3,9 @@ title: "Publications in Covariant Loop Quantum Gravity (Spinfoams)"
 # authors:
 #   - DQ
 date: 2025-02-01
+image:
+  caption: 'Image credit: [**DQ**](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.086012).'
+  focal_point: Center 
 ---
 
 ### Selected Publications

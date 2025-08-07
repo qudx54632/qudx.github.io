@@ -33,9 +33,13 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "Dongxue Qu(曲东雪)"
+
+appearance:
+  theme: dark         # force dark mode
+  theme_toggle: false # disable switching entirely
 
 # Site footer
 footer:

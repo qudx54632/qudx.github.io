@@ -10,6 +10,24 @@ image:
 
 ### Selected Publications
 
+Muxin Han, Zichang Huang, Hongguang Liu, <strong>Dongxue Qu*</strong><br>
+<em>Complex critical points and curved geometries in four-dimensional Lorentzian spinfoam quantum gravity</em><br>
+Phys. Rev. D <strong>106</strong>, 044005 (2022) · arXiv:2110.10670 [gr-qc]<br>
+<a href="https://arxiv.org/pdf/2110.10670">PDF</a> · 
+<a href="https://arxiv.org/abs/2110.10670">arXiv</a> · 
+<a href="https://doi.org/10.1103/PhysRevD.106.044005">DOI</a> · 
+<a href="https://inspirehep.net/literature/1949174">INSPIRE</a><br>
+<em>Cited by</em>: <span id="citecount5">updating…</span>
+
+<script>
+fetch("https://inspirehep.net/api/literature/1949174")
+  .then(res => res.json())
+  .then(data => {
+    const count = data.metadata?.citation_count ?? "0";
+    document.getElementById("citecount5").innerText = count;
+  });
+</script>
+
 Muxin Han, Hongguang Liu, <strong>Dongxue Qu*</strong><br>
 <em>Mathematica program for numerically computing real and complex critical points in four-dimensional Lorentzian spinfoam amplitudes</em><br>
 Phys. Rev. D <strong>111</strong>, 024021 (2025) · arXiv:2404.10563 [gr-qc]<br>
@@ -25,24 +43,6 @@ fetch("https://inspirehep.net/api/literature/2777905")
   .then(data => {
     const count = data.metadata?.citation_count ?? "0";
     document.getElementById("citecount1").innerText = count;
-  });
-</script>
-
-Muxin Han, <strong>Dongxue Qu</strong>, Cong Zhang*<br>
-<em>Spin foam amplitude of the black-to-white hole transition</em><br>
-Phys. Rev. D <strong>110</strong>, 124055 (2024) · arXiv:2404.02796 [gr-qc]<br>
-<a href="https://arxiv.org/pdf/2404.02796">PDF</a> · 
-<a href="https://arxiv.org/abs/2404.02796">arXiv</a> · 
-<a href="https://doi.org/10.1103/PhysRevD.110.124055">DOI</a> · 
-<a href="https://inspirehep.net/literature/2773860">INSPIRE</a><br>
-<em>Cited by</em>: <span id="citecount2">updating…</span>
-
-<script>
-fetch("https://inspirehep.net/api/literature/2773860")
-  .then(res => res.json())
-  .then(data => {
-    const count = data.metadata?.citation_count ?? "0";
-    document.getElementById("citecount2").innerText = count;
   });
 </script>
 
@@ -84,43 +84,6 @@ fetch("https://inspirehep.net/api/literature/2621512")
 </script>
 
 Muxin Han, Zichang Huang, Hongguang Liu, <strong>Dongxue Qu*</strong><br>
-<em>Complex critical points and curved geometries in four-dimensional Lorentzian spinfoam quantum gravity</em><br>
-Phys. Rev. D <strong>106</strong>, 044005 (2022) · arXiv:2110.10670 [gr-qc]<br>
-<a href="https://arxiv.org/pdf/2110.10670">PDF</a> · 
-<a href="https://arxiv.org/abs/2110.10670">arXiv</a> · 
-<a href="https://doi.org/10.1103/PhysRevD.106.044005">DOI</a> · 
-<a href="https://inspirehep.net/literature/1949174">INSPIRE</a><br>
-<em>Cited by</em>: <span id="citecount5">updating…</span>
-
-<script>
-fetch("https://inspirehep.net/api/literature/1949174")
-  .then(res => res.json())
-  .then(data => {
-    const count = data.metadata?.citation_count ?? "0";
-    document.getElementById("citecount5").innerText = count;
-  });
-</script>
-
-Muxin Han, Zichang Huang*, Hongguang Liu, <strong>Dongxue Qu</strong>, Yidun Wan<br>
-<em>Spinfoam on a Lefschetz thimble: Markov chain Monte Carlo computation of a Lorentzian spinfoam propagator</em><br>
-Phys. Rev. D <strong>103</strong>, 084026 (2021) · arXiv:2012.11515 [gr-qc]<br>
-<a href="https://arxiv.org/pdf/2012.11515">PDF</a> · 
-<a href="https://arxiv.org/abs/2012.11515">arXiv</a> · 
-<a href="https://doi.org/10.1103/PhysRevD.103.084026">DOI</a> · 
-<a href="https://inspirehep.net/literature/1837981">INSPIRE</a><br>
-<em>Cited by</em>: <span id="citecount6">updating…</span>
-
-<script>
-fetch("https://inspirehep.net/api/literature/1837981")
-  .then(res => res.json())
-  .then(data => {
-    const count = data.metadata?.citation_count ?? "0";
-    document.getElementById("citecount6").innerText = count;
-  });
-</script>
-
-
-Muxin Han, Zichang Huang, Hongguang Liu, <strong>Dongxue Qu*</strong><br>
 <em>Numerical computations of next-to-leading order corrections in spinfoam large-<i>j</i> asymptotics</em><br>
 Phys. Rev. D <strong>102</strong>, 124010 (2020) · arXiv:2007.01998 [gr-qc]<br>
 <a href="https://arxiv.org/pdf/2007.01998">PDF</a> · 
@@ -153,5 +116,41 @@ fetch("https://inspirehep.net/api/literature/2872604")
   .then(data => {
     const count = data.metadata?.citation_count ?? "0";
     document.getElementById("citecount-2872604").innerText = count;
+  });
+</script>
+
+Muxin Han, <strong>Dongxue Qu</strong>, Cong Zhang*<br>
+<em>Spin foam amplitude of the black-to-white hole transition</em><br>
+Phys. Rev. D <strong>110</strong>, 124055 (2024) · arXiv:2404.02796 [gr-qc]<br>
+<a href="https://arxiv.org/pdf/2404.02796">PDF</a> · 
+<a href="https://arxiv.org/abs/2404.02796">arXiv</a> · 
+<a href="https://doi.org/10.1103/PhysRevD.110.124055">DOI</a> · 
+<a href="https://inspirehep.net/literature/2773860">INSPIRE</a><br>
+<em>Cited by</em>: <span id="citecount2">updating…</span>
+
+<script>
+fetch("https://inspirehep.net/api/literature/2773860")
+  .then(res => res.json())
+  .then(data => {
+    const count = data.metadata?.citation_count ?? "0";
+    document.getElementById("citecount2").innerText = count;
+  });
+</script>
+
+Muxin Han, Zichang Huang*, Hongguang Liu, <strong>Dongxue Qu</strong>, Yidun Wan<br>
+<em>Spinfoam on a Lefschetz thimble: Markov chain Monte Carlo computation of a Lorentzian spinfoam propagator</em><br>
+Phys. Rev. D <strong>103</strong>, 084026 (2021) · arXiv:2012.11515 [gr-qc]<br>
+<a href="https://arxiv.org/pdf/2012.11515">PDF</a> · 
+<a href="https://arxiv.org/abs/2012.11515">arXiv</a> · 
+<a href="https://doi.org/10.1103/PhysRevD.103.084026">DOI</a> · 
+<a href="https://inspirehep.net/literature/1837981">INSPIRE</a><br>
+<em>Cited by</em>: <span id="citecount6">updating…</span>
+
+<script>
+fetch("https://inspirehep.net/api/literature/1837981")
+  .then(res => res.json())
+  .then(data => {
+    const count = data.metadata?.citation_count ?? "0";
+    document.getElementById("citecount6").innerText = count;
   });
 </script>

@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: /contact/
+        text: Request CV
+        url: https://www.dropbox.com/scl/fo/bv0s3i5v7mu66qh6essmm/AJggJpQAD-b1sQHdLsBlakY?rlkey=x3us8jh0yub219fu5voohjhw1&st=8akaltmi&dl=0
     design:
       css_class: dark
       background:

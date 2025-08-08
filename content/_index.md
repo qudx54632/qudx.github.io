@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Request CV
-        url: https://www.dropbox.com/scl/fo/bv0s3i5v7mu66qh6essmm/AJggJpQAD-b1sQHdLsBlakY?rlkey=x3us8jh0yub219fu5voohjhw1&st=8akaltmi&dl=0
+        url: "mailto:dqu@cdut.edu.cn?subject=CV%20Request"
     design:
       css_class: dark
       background:

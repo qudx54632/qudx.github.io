@@ -19,6 +19,15 @@
 .overlay {
   pointer-events: none !important;
 }
+/* Restore clickability for specific interactive areas */
+.author-card,
+.author-card a,
+.network-icon,
+.network-icon a {
+  pointer-events: auto !important;
+  position: relative;
+  z-index: 2; /* make sure it's above particles */
+}
 
 /* Ensure interactive elements are clickable and on top */
 a, button, input, textarea, select, label {

@@ -30,7 +30,7 @@ The course introduces the foundations and essential techniques of quantum field 
 - 🗂️ [Syllabus](Syllabus.pdf)
 - 📄 [Lecture Notes (PDF)](lecture-notes.pdf)
 - 📄 [Assignments (PDF)](assignments.pdf)    
-- 📆 [Weekly schedule and topics](schedule.pdf)  
+### - 📆 [Weekly schedule and topics](schedule.pdf)  
 - 💻 [Sample code and simulations](when applicable)  
 
 ---

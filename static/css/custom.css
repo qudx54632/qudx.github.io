@@ -35,12 +35,3 @@ a, button, input, textarea, select, label {
   position: relative;
   z-index: 1;
 }
-
-:root {
-  color-scheme: dark;
-}
-
-html, body {
-  background-color: #000 !important;
-  color: #fff !important;
-}

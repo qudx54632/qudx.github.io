@@ -1,2 +1,6 @@
 build:
   hugo_version: '0.136.5'
+
+appearance:
+  theme_day_night: false   # disables auto-switch
+  theme: dark              # forces dark theme

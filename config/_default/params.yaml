@@ -4,9 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# appearance:
+#   mode: system
+#   color: emerald
+
 appearance:
-  mode: system
-  color: emerald
+  theme_day_night: false   # disable auto light/dark switch
+  theme: dark              # force dark mode always
 
 # SEO
 marketing:

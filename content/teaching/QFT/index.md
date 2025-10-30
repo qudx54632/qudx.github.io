@@ -29,7 +29,8 @@ The course introduces the foundations and essential techniques of quantum field 
 
 - 🗂️ [Syllabus](Syllabus.pdf)
 - 📄 [Lecture Notes (PDF)](lecture-notes.pdf)
-- 📄 [Assignments (PDF)](assignments.pdf)    
+- 📄 [Assignments (PDF)](assignments.pdf) 
+- 📄 [Assignment Solutions (PDF)](hw-soln.pdf)    
 - 💻 [Sample code and simulations](when applicable)  
 
 ---

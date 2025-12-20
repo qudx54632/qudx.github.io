@@ -18,11 +18,10 @@ The course introduces the foundations and essential techniques of quantum field 
 
 - Canonical quantization  
 - Path integral formulation  
-- Scalar and spinor field theories  
-- Gauge fields  
-- Renormalization  
-- Applications in particle physics and cosmology  
-
+- Scalar field theories  
+- Interaction fields theory  
+- Feynman Diagrams and Feynman rules
+- Dirac fields
 ---
 
 ### 📚 Course Materials
@@ -43,8 +42,7 @@ The course introduces the foundations and essential techniques of quantum field 
 - Path integrals and generating functionals  
 - Symmetries and Noether’s theorem  
 - Interacting fields and perturbation theory  
-- Renormalization and regularization techniques  
-- Gauge invariance and the structure of the Standard Model  
+- Feynman rules and Feynman diagrams in the phi-4 theory
 
 ---
 
@@ -54,8 +52,7 @@ By the end of the course, students will be able to:
 
 - Understand the mathematical framework and physical concepts of QFT  
 - Derive and interpret Feynman rules and scattering amplitudes  
-- Analyze symmetry principles and their consequences in field theory  
-- Apply renormalization methods to compute loop corrections  
+- Analyze symmetry principles and their consequences in field theory   
 - Prepare for advanced study in QED, QCD, and quantum gravity  
 
 ---

@@ -158,6 +158,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Sichuan Provincial Natural Science Foundation (Youth Fund, Category B)
+    url: http://202.61.89.120/user/project/radicate_list
+    date: '2026-01-01'
+    awarder: Department of Science and Technology of Sichuan Province
+    summary: |
+      This project was funded under the Sichuan Provincial Youth Science Fund (Grant No. 26QNJJB2352) and focuses on the computational dynamics and spacetime evolution of Loop Quantum Gravity.
+    icon: scst
+
   - title: Blaumann Foundation Research Fellowship
     url: https://blaumannfoundation.org/wp-content/uploads/2023/09/Winner-Call-3-BlaumannFoundation.pdf
     date: '2023-09-01'

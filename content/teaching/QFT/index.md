@@ -21,7 +21,7 @@ The course introduces the foundations and essential techniques of quantum field 
 - Scalar field theories  
 - Interaction fields theory  
 - Feynman Diagrams and Feynman rules
-- Dirac fields
+- Introduction to Dirac fields
 ---
 
 ### 📚 Course Materials
@@ -38,7 +38,7 @@ The course introduces the foundations and essential techniques of quantum field 
 
 - Classical field theory and Lagrangian formalism  
 - Canonical quantization of scalar fields  
-- Dirac fields and spinor representations  
+- Introduction to Dirac fields and spinor representations  
 - Path integrals and generating functionals  
 - Symmetries and Noether’s theorem  
 - Interacting fields and perturbation theory  

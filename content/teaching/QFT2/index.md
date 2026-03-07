@@ -24,10 +24,10 @@ The course then introduces **Maxwell theory and its quantization**, leading to t
 
 Below is the official course schedule for **Spring 2026**.
 
-<!-- <a href="qft2_schedule_2026.png" target="_blank">
+<a href="qft2_schedule_2026.png" target="_blank">
   <img src="qft2_schedule_2026.png" style="width:100%; cursor: zoom-in;">
-</a> -->
-[![Course Schedule](qft2_schedule_2026.png)](qft2_schedule_2026.png)
+</a>
+
 ---
 
 ## 📚 Course Materials

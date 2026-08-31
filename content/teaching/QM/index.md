@@ -104,7 +104,7 @@ By the end of the course, students will be able to:
 
 - [Shankar - *Principles of Quantum Mechanics*](https://link.springer.com/book/10.1007/978-1-4757-0576-8)
 
-- [MIT OpenCourseWare - Quantum Physics](https://ocw.mit.edu/search/?q=quantum+physics)
+- [MIT OpenCourseWare - Quantum Mechanics](https://ocw.mit.edu/search/)
 
 ---
 

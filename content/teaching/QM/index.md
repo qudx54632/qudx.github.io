@@ -16,10 +16,10 @@ This page contains materials for the undergraduate course **Quantum Mechanics**,
 ### Contact Information
 
 - Instructor: [dqu@cdut.edu.cn](mailto:dqu@cdut.edu.cn)
-- Teaching Assistant: *TBA*
-- Teaching Assistant Email: *TBA*
-- Office Hours: *TBA*
-- Location: *TBA*
+- Teaching Assistant: Min Sun (孙敏)
+- Teaching Assistant Email: 3257887316@qq.com
+- Office Hours: Wednesdays, 16:00--17:00
+- Location: 北翼楼，5教8楼 5824（芙蓉餐厅对面）
 
 ---
 

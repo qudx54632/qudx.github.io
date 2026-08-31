@@ -1,7 +1,7 @@
 ---
 title: Quantum Mechanics
 summary: Course materials for Quantum Mechanics (Fall 2026)
-date: 2026-08-01
+date: 2026-08-30
 type: docs
 math: true
 tags:
@@ -13,7 +13,11 @@ image:
 
 This page contains materials for the undergraduate course **Quantum Mechanics**, taught in the **Fall semester of 2026**.
 
-### Contact Information
+
+
+---
+
+## 📧 Contact Information
 
 - Instructor: [dqu@cdut.edu.cn](mailto:dqu@cdut.edu.cn)
 - Teaching Assistant: Min Sun (孙敏)
@@ -21,29 +25,32 @@ This page contains materials for the undergraduate course **Quantum Mechanics**,
 - Office Hours: Wednesdays, 16:00--17:00
 - Location: 北翼楼，5教8楼 5824（芙蓉餐厅对面）
 
----
-
-The course introduces the foundations and essential techniques of quantum mechanics, including:
-
-- Quantum states and observables
-- The Schrodinger equation
-- Operators and measurement
-- Angular momentum and spin
-- Approximation methods
-- Applications to quantum systems
 
 ---
 
-### Course Materials
+## 📅 Course Schedule
 
-- [Syllabus (PDF)](Syllabus.pdf)
-- [Lecture Notes](lecture-notes/)
-- [Assignments](assignments/)
-- [Assignment Solutions](assignment-solutions/)
+Below is the official course schedule for **Fall 2026**.
+
+<div style="text-align:center;">
+<a href="./qm_schedule_2026.png" target="_blank" style="position:relative; z-index:10; display:inline-block;">
+<img src="./qm_schedule_2026.png" style="max-width:100%; cursor: zoom-in;">
+</a>
+</div>
+
 
 ---
 
-### Topics Covered
+## 📚 Course Materials
+
+- 🗂️[Syllabus (PDF)](Syllabus.pdf)
+- 📄[Lecture Notes](lecture-notes/)
+- 📄[Assignments](assignments/)
+- 📄[Assignment Solutions](assignment-solutions/)
+
+---
+
+## 🧮 Topics Covered
 
 - Mathematical foundations of quantum mechanics
 - Wave functions and the Schrodinger equation
@@ -57,7 +64,7 @@ The course introduces the foundations and essential techniques of quantum mechan
 
 ---
 
-### Learning Objectives
+## 🎯 Learning Objectives
 
 By the end of the course, students will be able to:
 
@@ -69,7 +76,7 @@ By the end of the course, students will be able to:
 
 ---
 
-### External Resources
+## 🔗 External Resources
 
 - [Griffiths & Schroeter - *Introduction to Quantum Mechanics*](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E)
 

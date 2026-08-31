@@ -37,9 +37,38 @@ The course introduces the foundations and essential techniques of quantum mechan
 ### Course Materials
 
 - [Syllabus (PDF)](Syllabus.pdf)
-- Lecture Notes *(coming soon)*
-- Assignments *(coming soon)*
-- Assignment Solutions *(coming soon)*
+- [Lecture Notes](#lecture-notes)
+- [Assignments](#assignments)
+- [Assignment Solutions](#assignment-solutions)
+
+---
+
+### Lecture Notes
+
+*No lecture notes have been posted yet.*
+
+<!-- Add future files in this format:
+- [Lecture Note 1 (PDF)](lecture-note-01.pdf)
+- [Lecture Note 2 (PDF)](lecture-note-02.pdf)
+-->
+
+### Assignments
+
+*No assignments have been posted yet.*
+
+<!-- Add future files in this format:
+- [Assignment 1 (PDF)](assignment-01.pdf)
+- [Assignment 2 (PDF)](assignment-02.pdf)
+-->
+
+### Assignment Solutions
+
+*No assignment solutions have been posted yet.*
+
+<!-- Add future files in this format:
+- [Assignment 1 Solutions (PDF)](assignment-01-solutions.pdf)
+- [Assignment 2 Solutions (PDF)](assignment-02-solutions.pdf)
+-->
 
 ---
 

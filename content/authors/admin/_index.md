@@ -158,13 +158,21 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Dynamical Consistency and Numerical Path-Integral Methods in Covariant Loop Quantum Gravity
+    url: https://www.nsfc.gov.cn/
+    date: '2026-01-01'
+    awarder: National Natural Science Foundation of China
+    summary: |
+      This project is supported by the National Natural Science Foundation of China (Grant No. 12605088).
+    icon: brands/nsfc
+
   - title: Sichuan Provincial Natural Science Foundation (Youth Fund, Category B)
     url: http://202.61.89.120/user/project/radicate_list
     date: '2026-01-01'
     awarder: Department of Science and Technology of Sichuan Province
     summary: |
       This project was funded under the Sichuan Provincial Youth Science Fund (Grant No. 26QNJJB2352) and focuses on the computational dynamics and spacetime evolution of Loop Quantum Gravity.
-    icon: scst
+    icon: brands/scst
 
   - title: Blaumann Foundation Research Fellowship
     url: https://blaumannfoundation.org/wp-content/uploads/2023/09/Winner-Call-3-BlaumannFoundation.pdf
@@ -172,7 +180,7 @@ awards:
     awarder: Blaumann Foundation
     summary: |
       I was a research fellow funded by the Blaumann Foundation, supporting the work in covariant Loop Quantum Gravity.
-    icon: blaumann
+    icon: brands/blaumann
 
   - title: Graduate Fellowship for Academic Excellence
     url: https://www.fau.edu/graduate/resources/fellowships-and-awards/recipients/
@@ -180,21 +188,21 @@ awards:
     awarder: Florida Atlantic University Graduate College
     summary: |
       Awarded for outstanding academic performance during PhD studies in Physics.
-    icon: fau1
+    icon: brands/fau1
 
   - title: The Nathan W. Dean Award
     date: '2020-09-01'
     awarder: Department of Physics, Florida Atlantic University
     summary: |
       Recognized for exceptional achievement in graduate-level research in theoretical physics.
-    icon: fau2
+    icon: brands/fau2
 
   - title: Principal Investigator, Graduate Research Grant
     date: '2015-01-01'
     awarder: Fundamental Research Funds for Central Universities (China)
     summary: |
       Successfully led a funded graduate research project through the grant *2015YJS170* focused on foundational studies in condensed matter systems.
-    icon: bjtu
+    icon: brands/bjtu
 ---
 
 ## About Me

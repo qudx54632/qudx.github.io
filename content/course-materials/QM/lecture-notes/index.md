@@ -14,5 +14,5 @@ _build:
 
 ## Lecture Notes
 
-- [Lecture Note 1 (PDF)](lecture-note-01.pdf)
-
+- [Lecture Note 1: A first glimpse of superposition (PDF)](lecture-note-01.pdf)
+- [Lecture Note 2: Experiments beyond classical physics (PDF)](lecture-note-02.pdf)

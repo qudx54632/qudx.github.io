@@ -78,6 +78,8 @@ By the end of the course, students will be able to:
 
 ## 🔗 External Resources
 
+- [Feynman & Leighton & Sands - *The Feynman Lectures on Physics, Volume III: Quantum mechanics*](https://www.feynmanlectures.caltech.edu/III_toc.html)
+
 - [Griffiths & Schroeter - *Introduction to Quantum Mechanics*](https://www.cambridge.org/highereducation/books/introduction-to-quantum-mechanics/990799CA07A83FC5312402AF6860311E)
 
 - [Shankar - *Principles of Quantum Mechanics*](https://link.springer.com/book/10.1007/978-1-4757-0576-8)

@@ -160,18 +160,20 @@ languages:
 awards:
   - title: Dynamical Consistency and Numerical Path-Integral Methods in Covariant Loop Quantum Gravity
     url: https://www.nsfc.gov.cn/
-    date: '2026-01-01'
+    date: '2027-01-01'
     awarder: National Natural Science Foundation of China
+    role: Principal Investigator
     summary: |
-      This project is supported by the National Natural Science Foundation of China (Grant No. 12605088).
+      This project is supported by the National Natural Science Foundation of China (NSFC), Grant No. 12605088.
     icon: brands/nsfc
 
-  - title: Sichuan Provincial Natural Science Foundation (Youth Fund, Category B)
+  - title: Computational Dynamics and Spacetime Evolution of Loop Quantum Gravity
     url: http://202.61.89.120/user/project/radicate_list
     date: '2026-01-01'
-    awarder: Department of Science and Technology of Sichuan Province
+    awarder: Sichuan Provincial Department of Science and Technology
+    role: Principal Investigator
     summary: |
-      This project was funded under the Sichuan Provincial Youth Science Fund (Grant No. 26QNJJB2352) and focuses on the computational dynamics and spacetime evolution of Loop Quantum Gravity.
+      This project is supported by the Sichuan Provincial Natural Science Foundation (Youth Fund, Category B), Grant No. 26QNJJB2352.
     icon: brands/scst
 
   - title: Blaumann Foundation Research Fellowship
@@ -179,7 +181,7 @@ awards:
     date: '2023-09-01'
     awarder: Blaumann Foundation
     summary: |
-      I was a research fellow funded by the Blaumann Foundation, supporting the work in covariant Loop Quantum Gravity.
+      I received a Blaumann Foundation Research Fellowship to support my work in covariant loop quantum gravity.
     icon: brands/blaumann
 
   - title: Graduate Fellowship for Academic Excellence
@@ -187,21 +189,21 @@ awards:
     date: '2021-09-01'
     awarder: Florida Atlantic University Graduate College
     summary: |
-      Awarded for outstanding academic performance during PhD studies in Physics.
+      Awarded for outstanding academic performance during my PhD studies in physics.
     icon: brands/fau1
 
   - title: The Nathan W. Dean Award
     date: '2020-09-01'
     awarder: Department of Physics, Florida Atlantic University
     summary: |
-      Recognized for exceptional achievement in graduate-level research in theoretical physics.
+      Recognized for exceptional achievement in graduate research in theoretical physics.
     icon: brands/fau2
 
   - title: Principal Investigator, Graduate Research Grant
     date: '2015-01-01'
-    awarder: Fundamental Research Funds for Central Universities (China)
+    awarder: Fundamental Research Funds for the Central Universities (China)
     summary: |
-      Successfully led a funded graduate research project through the grant *2015YJS170* focused on foundational studies in condensed matter systems.
+      Led a graduate research project funded under Grant No. 2015YJS170, focusing on foundational studies in condensed-matter systems.
     icon: brands/bjtu
 ---
 

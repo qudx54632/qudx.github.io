@@ -16,3 +16,4 @@ _build:
 
 - [Lecture Note 1: A first glimpse of superposition (PDF)](lecture-note-01.pdf)
 - [Lecture Note 2: Experiments beyond classical physics (PDF)](lecture-note-02.pdf)
+- [Lecture Note 3: Wave functions (PDF)](lecture-note-03.pdf)

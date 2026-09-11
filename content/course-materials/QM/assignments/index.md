@@ -16,9 +16,4 @@ _build:
 
 *No assignments have been posted yet.*
 
-<!--
-Upload each PDF to this folder and add it below in this format:
-
-- [Assignment 1 (PDF)](assignment-01.pdf)
-- [Assignment 2 (PDF)](assignment-02.pdf)
--->
+[Assignment 1 (PDF)](assignment-01.pdf)

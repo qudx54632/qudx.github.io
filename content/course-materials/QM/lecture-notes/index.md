@@ -18,3 +18,4 @@ _build:
 - [Lecture Note 2: Experiments beyond classical physics (PDF)](lecture-note-02.pdf)
 - [Lecture Note 3: Wave functions (PDF)](lecture-note-03.pdf)
 - [Lecture Note 4: Wave functions continued(PDF)](lecture-note-04.pdf)
+- [Lecture Note 5: Expectation Values, Uncertainty, and the Momentum Operator(PDF)](lecture-note-05.pdf)

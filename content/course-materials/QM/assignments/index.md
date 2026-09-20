@@ -14,7 +14,5 @@ _build:
 
 ## Assignments
 
-*No assignments have been posted yet.*
-
-[Assignment 1 (PDF)](assignment-01.pdf)
-[Assignment 2 (PDF)](assignment-02.pdf)
+- [Assignment 1 (PDF)](assignment-01.pdf)
+- [Assignment 2 (PDF)](assignment-02.pdf)

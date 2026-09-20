@@ -16,9 +16,4 @@ _build:
 
 *No assignment solutions have been posted yet.*
 
-<!--
-Upload each PDF to this folder and add it below in this format:
-
 - [Assignment 1 Solutions (PDF)](assignment-01-solutions.pdf)
-- [Assignment 2 Solutions (PDF)](assignment-02-solutions.pdf)
--->

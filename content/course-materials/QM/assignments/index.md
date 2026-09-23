@@ -1,7 +1,7 @@
 ---
 title: Quantum Mechanics Assignments
 summary: Assignments for Quantum Mechanics (Fall 2026)
-date: 2026-08-01
+date: 2026-09-23
 type: docs
 math: true
 url: /teaching/qm/assignments/
@@ -16,3 +16,4 @@ _build:
 
 - [Assignment 1 (PDF)](assignment-01.pdf)
 - [Assignment 2 (PDF)](assignment-02.pdf)
+- [Assignment 3 (PDF)](assignment-03.pdf)

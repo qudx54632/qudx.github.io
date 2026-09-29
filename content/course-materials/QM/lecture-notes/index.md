@@ -21,3 +21,4 @@ _build:
 - [Lecture Note 5: Expectation Values, Uncertainty, and the Momentum Operator(PDF)](lecture-note-05.pdf)
 - [Lecture Note 6: Operators and Observables(PDF)](lecture-note-06.pdf)
 - [Lecture Note 7: Time Evolution and the Schrodinger Equation(PDF)](lecture-note-07.pdf)
+- [Lecture Note 8: Unitary Evolution(PDF)](lecture-note-08.pdf)

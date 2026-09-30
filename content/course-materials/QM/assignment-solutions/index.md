@@ -17,3 +17,4 @@ _build:
 *No assignment solutions have been posted yet.*
 
 - [Assignment 1 Solutions (PDF)](assignment-01-solutions.pdf)
+- [Assignment 2 Solutions (PDF)](assignment-02-solutions.pdf)

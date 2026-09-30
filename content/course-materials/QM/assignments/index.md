@@ -17,3 +17,4 @@ _build:
 - [Assignment 1 (PDF)](assignment-01.pdf)
 - [Assignment 2 (PDF)](assignment-02.pdf)
 - [Assignment 3 (PDF)](assignment-03.pdf)
+- [Assignment 4 (PDF)](assignment-04.pdf)

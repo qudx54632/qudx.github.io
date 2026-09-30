@@ -22,3 +22,4 @@ _build:
 - [Lecture Note 6: Operators and Observables(PDF)](lecture-note-06.pdf)
 - [Lecture Note 7: Time Evolution and the Schrodinger Equation(PDF)](lecture-note-07.pdf)
 - [Lecture Note 8: Unitary Evolution(PDF)](lecture-note-08.pdf)
+- [Lecture Note 9: Energy Superpositions and Bound States Student Notes(PDF)](lecture-note-09.pdf)

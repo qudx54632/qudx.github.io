@@ -24,3 +24,4 @@ _build:
 - [Lecture Note 8: Unitary Evolution(PDF)](lecture-note-08.pdf)
 - [Lecture Note 9: Energy Superpositions and Bound States(PDF)](lecture-note-09.pdf)
 - [Lecture Note 10: Finite Wells and the Structure of Bound States(PDF)](lecture-note-10.pdf)
+- [Lecture Note 11: Bound-State Structure and the Quantum Harmonic Oscillator(PDF)](lecture-note-11.pdf)

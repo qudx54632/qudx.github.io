@@ -27,3 +27,4 @@ _build:
 - [Lecture Note 11: Bound-State Structure and the Quantum Harmonic Oscillator(PDF)](lecture-note-11.pdf)
 - [Lecture Note 12: Operator Methods for the Harmonic Oscillator(PDF)](lecture-note-12.pdf)
 - [Lecture Note 13: Harmonic-Oscillator Ladder Operators and the Ground State(PDF)](lecture-note-13.pdf)
+- [Lecture Note 14: Compatible Observables, Uncertainty, and the Delta Well(PDF)](lecture-note-14.pdf)

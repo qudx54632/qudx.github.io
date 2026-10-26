@@ -28,3 +28,4 @@ _build:
 - [Lecture Note 12: Operator Methods for the Harmonic Oscillator(PDF)](lecture-note-12.pdf)
 - [Lecture Note 13: Harmonic-Oscillator Ladder Operators and the Ground State(PDF)](lecture-note-13.pdf)
 - [Lecture Note 14: Compatible Observables, Uncertainty, and the Delta Well(PDF)](lecture-note-14.pdf)
+- [Lecture Note 15: Wave Packets and Free Dispersion(PDF)](lecture-note-15.pdf)

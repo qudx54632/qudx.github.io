@@ -29,3 +29,4 @@ _build:
 - [Lecture Note 13: Harmonic-Oscillator Ladder Operators and the Ground State(PDF)](lecture-note-13.pdf)
 - [Lecture Note 14: Compatible Observables, Uncertainty, and the Delta Well(PDF)](lecture-note-14.pdf)
 - [Lecture Note 15: Wave Packets and Free Dispersion(PDF)](lecture-note-15.pdf)
+- [Lecture Note 16: Group Velocity, Probability Current, and Potential Steps(PDF)](lecture-note-16.pdf)

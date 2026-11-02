@@ -30,3 +30,4 @@ _build:
 - [Lecture Note 14: Compatible Observables, Uncertainty, and the Delta Well(PDF)](lecture-note-14.pdf)
 - [Lecture Note 15: Wave Packets and Free Dispersion(PDF)](lecture-note-15.pdf)
 - [Lecture Note 16: Group Velocity, Probability Current, and Potential Steps(PDF)](lecture-note-16.pdf)
+- [Lecture Note 17: Finite Square Barriers, Tunneling, and Resonances(PDF)](lecture-note-17.pdf)

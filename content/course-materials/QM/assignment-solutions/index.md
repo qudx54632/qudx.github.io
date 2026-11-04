@@ -21,3 +21,4 @@ _build:
 - [Assignment 3 Solutions (PDF)](assignment-03-solutions.pdf)
 - [Assignment 4 Solutions (PDF)](assignment-04-solutions.pdf)
 - [Assignment 5 Solutions (PDF)](assignment-05-solutions.pdf)
+- [Assignment 6 Solutions (PDF)](assignment-06-solutions.pdf)

@@ -32,3 +32,4 @@ _build:
 - [Lecture Note 16: Group Velocity, Probability Current, and Potential Steps(PDF)](lecture-note-16.pdf)
 - [Lecture Note 17: Finite Square Barriers, Tunneling, and Resonances(PDF)](lecture-note-17.pdf)
 - [Lecture Note 18: Finite-Well Resonances and the S-Matrix(PDF)](lecture-note-18.pdf)
+- [Lecture Note 19: S-Matrix Unitarity, Symmetry Constraints, and Bound-State Poles(PDF)](lecture-note-19.pdf)

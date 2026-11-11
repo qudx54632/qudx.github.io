@@ -22,3 +22,4 @@ _build:
 - [Assignment 4 Solutions (PDF)](assignment-04-solutions.pdf)
 - [Assignment 5 Solutions (PDF)](assignment-05-solutions.pdf)
 - [Assignment 6 Solutions (PDF)](assignment-06-solutions.pdf)
+- [Assignment 7 Solutions (PDF)](assignment-07-solutions.pdf)

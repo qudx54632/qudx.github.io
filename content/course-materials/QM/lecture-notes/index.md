@@ -33,3 +33,4 @@ _build:
 - [Lecture Note 17: Finite Square Barriers, Tunneling, and Resonances(PDF)](lecture-note-17.pdf)
 - [Lecture Note 18: Finite-Well Resonances and the S-Matrix(PDF)](lecture-note-18.pdf)
 - [Lecture Note 19: S-Matrix Unitarity, Symmetry Constraints, and Bound-State Poles(PDF)](lecture-note-19.pdf)
+- [Lecture Note 20: Symmetry, Degeneracy, and the Isotropic Harmonic Oscillator(PDF)](lecture-note-20.pdf)

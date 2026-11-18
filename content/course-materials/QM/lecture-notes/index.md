@@ -35,3 +35,4 @@ _build:
 - [Lecture Note 19: S-Matrix Unitarity, Symmetry Constraints, and Bound-State Poles(PDF)](lecture-note-19.pdf)
 - [Lecture Note 20: Symmetry, Degeneracy, and the Isotropic Harmonic Oscillator(PDF)](lecture-note-20.pdf)
 - [Lecture Note 21:  Angular-Momentum Operators and Dirac Notation(PDF)](lecture-note-21.pdf)
+- [Lecture Note 22:  Angular-Momentum Eigenvalues: Ladder Operators and Allowed Values(PDF)](lecture-note-22.pdf)
